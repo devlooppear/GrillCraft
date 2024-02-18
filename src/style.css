@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.name-app{
+    font-size: 3.8em;
+}
+
+.container-introduction {
+    min-height: 95vh;
+}
+
+.social-link {
+    color: rgb(153, 140, 25);
+}
